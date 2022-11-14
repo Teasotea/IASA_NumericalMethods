@@ -1,2 +1,2 @@
 # IASA_NumericalMethods
-Numerical Methods I and II - IASA 2nd-3rd year course labs, implemented with Python
+Numerical Methods I and II - IASA KPI 4-5 semester labs, implemented with Python
